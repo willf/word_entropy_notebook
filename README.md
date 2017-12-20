@@ -6,3 +6,5 @@ same directory as the notebook. Each line should be a tab-separated file with
 two columns (no header): a word token, and a count.
 
 The notebook as is uses only tokens with just letters in them, and just the first 10^6 of those.
+
+For Erin McKean
